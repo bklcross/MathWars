@@ -1,0 +1,19 @@
+{
+  "name": "mathwars",
+  "version": "1.0.0",
+  "description": "multiplayer math game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bklcross/MathWars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bklcross/MathWars/issues"
+  },
+  "homepage": "https://github.com/bklcross/MathWars#readme"
+}
