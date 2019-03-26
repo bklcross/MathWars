@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/bklcross/MathWars/issues"
   },
-  "homepage": "https://github.com/bklcross/MathWars#readme"
+  "homepage": "https://github.com/bklcross/MathWars#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10",
+    "socket.io": "^2.2.0"
+  }
 }
